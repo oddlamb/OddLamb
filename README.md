@@ -1,6 +1,6 @@
 ## Greetings👋👋
 **Im Asaf Amithiel**
-<br>Im a 15 years that likes to learn everything about programming and tech📚</br>
+<br>Im a 15 years old brazilian that loves to learn everything about programming and tech 📚</br>
 ## Knowledges📖:
 <p align="center">
 <a href="https://skillicons.dev">
